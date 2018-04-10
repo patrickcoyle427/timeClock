@@ -1,0 +1,1 @@
+{"Patrick Coyle": {"totalHours": 1.8251428851154115, "clockedIn": true, "lastClockInTime": 1523391400.0283654}}
